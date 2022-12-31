@@ -1,0 +1,15 @@
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\bin\Debug\net6.0\ExerProdutosImportados.exe
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\bin\Debug\net6.0\ExerProdutosImportados.deps.json
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\bin\Debug\net6.0\ExerProdutosImportados.runtimeconfig.json
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\bin\Debug\net6.0\ExerProdutosImportados.dll
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\bin\Debug\net6.0\ExerProdutosImportados.pdb
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\obj\Debug\net6.0\ExerProdutosImportados.csproj.AssemblyReference.cache
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\obj\Debug\net6.0\ExerProdutosImportados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\obj\Debug\net6.0\ExerProdutosImportados.AssemblyInfoInputs.cache
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\obj\Debug\net6.0\ExerProdutosImportados.AssemblyInfo.cs
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\obj\Debug\net6.0\ExerProdutosImportados.csproj.CoreCompileInputs.cache
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\obj\Debug\net6.0\ExerProdutosImportados.dll
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\obj\Debug\net6.0\refint\ExerProdutosImportados.dll
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\obj\Debug\net6.0\ExerProdutosImportados.pdb
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\obj\Debug\net6.0\ExerProdutosImportados.genruntimeconfig.cache
+C:\Users\taislaine.massucato\Desktop\teste\ExerProdutosImportados\obj\Debug\net6.0\ref\ExerProdutosImportados.dll

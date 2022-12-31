@@ -1,0 +1,15 @@
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\obj\Debug\net6.0\OrderExer.csproj.AssemblyReference.cache
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\obj\Debug\net6.0\OrderExer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\obj\Debug\net6.0\OrderExer.AssemblyInfoInputs.cache
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\obj\Debug\net6.0\OrderExer.AssemblyInfo.cs
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\obj\Debug\net6.0\OrderExer.csproj.CoreCompileInputs.cache
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\bin\Debug\net6.0\OrderExer.exe
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\bin\Debug\net6.0\OrderExer.deps.json
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\bin\Debug\net6.0\OrderExer.runtimeconfig.json
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\bin\Debug\net6.0\OrderExer.dll
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\bin\Debug\net6.0\OrderExer.pdb
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\obj\Debug\net6.0\OrderExer.dll
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\obj\Debug\net6.0\refint\OrderExer.dll
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\obj\Debug\net6.0\OrderExer.pdb
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\obj\Debug\net6.0\OrderExer.genruntimeconfig.cache
+C:\Users\EuTay\OneDrive\Documentos\Estudos\C# Udemy\OrderExer\obj\Debug\net6.0\ref\OrderExer.dll

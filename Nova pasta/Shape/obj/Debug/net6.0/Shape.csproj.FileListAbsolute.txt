@@ -1,0 +1,5 @@
+C:\Users\EuTay\OneDrive\Área de Trabalho\Curso C# -UDEMY 2\Desenvolvidos\Nova pasta\Shape\obj\Debug\net6.0\Shape.csproj.AssemblyReference.cache
+C:\Users\EuTay\OneDrive\Área de Trabalho\Curso C# -UDEMY 2\Desenvolvidos\Nova pasta\Shape\obj\Debug\net6.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EuTay\OneDrive\Área de Trabalho\Curso C# -UDEMY 2\Desenvolvidos\Nova pasta\Shape\obj\Debug\net6.0\Shape.AssemblyInfoInputs.cache
+C:\Users\EuTay\OneDrive\Área de Trabalho\Curso C# -UDEMY 2\Desenvolvidos\Nova pasta\Shape\obj\Debug\net6.0\Shape.AssemblyInfo.cs
+C:\Users\EuTay\OneDrive\Área de Trabalho\Curso C# -UDEMY 2\Desenvolvidos\Nova pasta\Shape\obj\Debug\net6.0\Shape.csproj.CoreCompileInputs.cache
