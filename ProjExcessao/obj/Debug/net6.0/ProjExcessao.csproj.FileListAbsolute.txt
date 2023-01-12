@@ -1,0 +1,30 @@
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\bin\Debug\net6.0\ProjExcessao.exe
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\bin\Debug\net6.0\ProjExcessao.deps.json
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\bin\Debug\net6.0\ProjExcessao.runtimeconfig.json
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\bin\Debug\net6.0\ProjExcessao.dll
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\bin\Debug\net6.0\ProjExcessao.pdb
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\obj\Debug\net6.0\ProjExcessao.csproj.AssemblyReference.cache
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\obj\Debug\net6.0\ProjExcessao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\obj\Debug\net6.0\ProjExcessao.AssemblyInfoInputs.cache
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\obj\Debug\net6.0\ProjExcessao.AssemblyInfo.cs
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\obj\Debug\net6.0\ProjExcessao.csproj.CoreCompileInputs.cache
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\obj\Debug\net6.0\ProjExcessao.dll
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\obj\Debug\net6.0\refint\ProjExcessao.dll
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\obj\Debug\net6.0\ProjExcessao.pdb
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\obj\Debug\net6.0\ProjExcessao.genruntimeconfig.cache
+C:\Users\taislaine.massucato\Desktop\Curso C# -UDEMY\Desenvolvidos\ProjExcessao\obj\Debug\net6.0\ref\ProjExcessao.dll
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\bin\Debug\net6.0\ProjExcessao.exe
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\bin\Debug\net6.0\ProjExcessao.deps.json
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\bin\Debug\net6.0\ProjExcessao.runtimeconfig.json
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\bin\Debug\net6.0\ProjExcessao.dll
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\bin\Debug\net6.0\ProjExcessao.pdb
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\obj\Debug\net6.0\ProjExcessao.csproj.AssemblyReference.cache
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\obj\Debug\net6.0\ProjExcessao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\obj\Debug\net6.0\ProjExcessao.AssemblyInfoInputs.cache
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\obj\Debug\net6.0\ProjExcessao.AssemblyInfo.cs
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\obj\Debug\net6.0\ProjExcessao.csproj.CoreCompileInputs.cache
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\obj\Debug\net6.0\ProjExcessao.dll
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\obj\Debug\net6.0\refint\ProjExcessao.dll
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\obj\Debug\net6.0\ProjExcessao.pdb
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\obj\Debug\net6.0\ProjExcessao.genruntimeconfig.cache
+C:\Users\taislaine.massucato\Desktop\ProjExcessao\obj\Debug\net6.0\ref\ProjExcessao.dll
